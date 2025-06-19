@@ -1,0 +1,1 @@
+# GIFJACK.FUN Fase 3 - Interação com buy + jackpot + leaderboard
